@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{F69666DE-586A-AA11-5EA4-33DB1BEF81AC}") = "FP2 Electric Bugaloo", "Assembly-CSharp.csproj", "{1C40F6BE-BD94-6990-0899-D8CF2C6AB2E6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1C40F6BE-BD94-6990-0899-D8CF2C6AB2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C40F6BE-BD94-6990-0899-D8CF2C6AB2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C40F6BE-BD94-6990-0899-D8CF2C6AB2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C40F6BE-BD94-6990-0899-D8CF2C6AB2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
